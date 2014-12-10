@@ -1,1 +1,1 @@
-web: bin/hubot --adapter slack -n gopher
+web: bin/hubot --adapter slack -n gop
