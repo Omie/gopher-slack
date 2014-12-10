@@ -11,7 +11,7 @@
 #   hubot godoc for <package> <function> - Shows Go stdlib function information.
 #
 # Authors:
-#   Omie, omkarnath.me
+#   Omie
 #
 
 module.exports = (robot) ->
