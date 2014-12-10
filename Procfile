@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n gopher
+web: bin/hubot --adapter slack -n godoc
